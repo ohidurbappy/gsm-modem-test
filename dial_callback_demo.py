@@ -16,7 +16,7 @@ import sys, time, logging
 
 PORT = 'COM6'
 BAUDRATE = 115200
-NUMBER = '01749817193' # Number to dial - CHANGE THIS TO A REAL NUMBER
+NUMBER = '01749XXXXXX' # Number to dial - CHANGE THIS TO A REAL NUMBER
 PIN = None # SIM card PIN (if any)
 
 from gsmmodem.modem import GsmModem

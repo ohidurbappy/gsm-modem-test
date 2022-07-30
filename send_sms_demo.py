@@ -16,7 +16,7 @@ from gsmmodem.modem import GsmModem, SentSms
 PORT = 'COM6'
 BAUDRATE = 115200
 SMS_TEXT = 'A good teacher is like a candle, it consumes itself to light the way for others.'
-SMS_DESTINATION = '01749817193'
+SMS_DESTINATION = '01749XXXXXX'
 PIN = None  # SIM card PIN (if any)
 
 
